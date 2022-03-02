@@ -1,13 +1,13 @@
-!!!COM:	Brumel, Antoine
-!!!CDT:	~1460-~1512
-!!!OPR:	Missa Et ecce terre motus
-!!!ONM:	5
-!!!OTL:	Agnus Dei
-!!!AGN:	Mass; Agnus Dei
-!!!SCT:	Bru1008e
-!!!SCA:	Bru1008e
-!!!voices:	12
-!!!voices-OPR:	12
+!!!COM: Brumel, Antoine
+!!!CDT: ~1460-~1512
+!!!OPR: Missa Et ecce terre motus
+!!!ONM: 5
+!!!OTL: Agnus Dei
+!!!AGN: Mass; Agnus Dei
+!!!SCT: Bru1008e
+!!!SCA: Bru1008e
+!!!voices: 12
+!!!voices-OPR: 12
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
 *I"Bassus3	*	*I"Bassus2	*	*I"Bassus1	*	*I"Tenor3	*	*I"Tenor2	*	*I"Tenor1	*	*I"Contratenor3	*	*I"Contratenor2	*	*I"Contratenor1	*	*I"Discantus3	*	*I"Discantus2	*	*I"Discantus1	*
@@ -477,9 +477,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Legge/Rodin
-!!!END:	2014/08/07/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/08/16/
-!!!ONB:	Translated from MusicXML and edited on 2014/08/16/ by Craig Sapp
+!!!ENC: Legge/Rodin
+!!!END: 2014/08/07/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/08/16/
+!!!ONB: Translated from MusicXML and edited on 2014/08/16/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v95,95,155,95,95,155,95,95,155,95,95,100z16Q1c120t200s^[(...)(...)(...)(...)]^

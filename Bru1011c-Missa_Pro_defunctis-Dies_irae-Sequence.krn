@@ -1,12 +1,12 @@
-!!!COM:	Brumel, Antoine
-!!!CDT:	~1460-~1512
-!!!OPR:	Missa Pro defunctis
-!!!ONM:	3
-!!!OTL:	Dies irae
-!!!AGN:	Mass; Dies irae
-!!!SCT:	Bru1011c
-!!!SCA:	Bru1011c
-!!!voices:	4
+!!!COM: Brumel, Antoine
+!!!CDT: ~1460-~1512
+!!!OPR: Missa Pro defunctis
+!!!ONM: 3
+!!!OTL: Dies irae
+!!!AGN: Mass; Dies irae
+!!!SCT: Bru1011c
+!!!SCA: Bru1011c
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -1216,9 +1216,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 02-12-2014, 06-18-2014 (text)
-!!!END:	2014/08/07/
-!!!EED:	Jesse Rodin
-!!!EEV:	2014/08/15/
-!!!ONB:	Translated from MusicXML and edited on 2014/08/15/ by Craig Sapp
+!!!ENC: Chris Gage 02-12-2014, 06-18-2014 (text)
+!!!END: 2014/08/07/
+!!!EED: Jesse Rodin
+!!!EEV: 2014/08/15/
+!!!ONB: Translated from MusicXML and edited on 2014/08/15/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v95,95,95,130l2650z16Q1c200
